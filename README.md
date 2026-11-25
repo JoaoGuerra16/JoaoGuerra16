@@ -18,25 +18,25 @@ Computer Engineering graduate based in Portugal, passionate about building softw
 **Languages & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,nodejs,react,kotlin" />
 </p>
 
 **Backend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,docker" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio" />
 </p>
 
 ### Featured Projects
 
-**[AI Document Analyzer](https://github.com/JoaoGuerra16/ai-document-analyzer)**  
-AI-powered document analysis project.
+**[RideMate – Android App](https://github.com/JoaoGuerra16/ridemate-android)**  
+Native Android ride-sharing application built with Kotlin, Jetpack Compose, Firebase and Room, following MVVM architecture.
 
 **[Autonomous AI Game Agent](https://github.com/JoaoGuerra16/autonomous-ai-game-agent)**  
 An autonomous agent built around game-related automation.
@@ -48,4 +48,4 @@ Java implementation of graph algorithms and pathfinding techniques.
 
 ### Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JoaoGuerra16)
+[LinkedIn](https://www.linkedin.com/in/guerra-joao/)
