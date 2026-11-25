@@ -35,9 +35,6 @@ Computer Engineering graduate based in Portugal, passionate about building softw
 
 ### Featured Projects
 
-**[Warframe Tracker](https://github.com/JoaoGuerra16)**  
-Full-stack application built with ASP.NET Core, React and PostgreSQL, with AI integration.
-
 **[AI Document Analyzer](https://github.com/JoaoGuerra16/ai-document-analyzer)**  
 AI-powered document analysis project.
 
@@ -52,5 +49,3 @@ Java implementation of graph algorithms and pathfinding techniques.
 ### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JoaoGuerra16)
-
-*Building software, exploring AI and learning every day.*
